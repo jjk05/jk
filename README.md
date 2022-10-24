@@ -10,3 +10,4 @@
 Вводим SQL-запрос: SELECT * FROM users JOIN grades on users.user_id=grades.user_id
 найти количество зписей с именем Олег
 Вводим SQL-запрос: SELECT * FROM users WHERE name='Олег'
+https://ovsyug.wordpress.com/ сайт
