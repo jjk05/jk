@@ -11,3 +11,4 @@
 найти количество зписей с именем Олег
 Вводим SQL-запрос: SELECT * FROM users WHERE name='Олег'
 https://ovsyug.wordpress.com/ сайт
+https://miro.com/welcomeonboard/WUtWMUpVMGlCTGxhRkN4QVF4TUFaVzQ5dTBZemJzeDg3Y0ljT0dpMjM2Znhvc1NqYm1ONjV3M01FTTdISzBKdnwzNDU4NzY0NTM4NDk1ODE4MzEyfDI=?share_link_id=536845104220
