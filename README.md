@@ -30,3 +30,13 @@ $\upsilon=\sqrt{\frac{GM}{R}}$
 
 
 ![Cool Text - Shpora python 424873244016388](https://user-images.githubusercontent.com/114376515/205546838-5117e868-059f-43b5-8002-e79113d45a14.png)
+
+
+flowchart LR
+
+```mermaid
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
