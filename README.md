@@ -36,8 +36,8 @@ $\upsilon=\sqrt{\frac{GM}{R}}$
 flowchart LR
 
 
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+A[10 класс] -->|Переводные| B(11 класс)
+B --> C{ЕГЭ}
+C -->|сдал| D[ВУЗ]
+C -->|не сдал| E[смэрт]
 ```
