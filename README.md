@@ -47,3 +47,5 @@ D -->|хорошо|G[ВУЗ]
 E -->|хорошо|G[ВУЗ]
 E -->|плохо|I[приключения]
 ```
+
+https://www.nsu.ru/local/templates/nsu_ru_mca/images/opengraf.jpg
