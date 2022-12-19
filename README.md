@@ -49,3 +49,5 @@ E -->|плохо|I[приключения]
 ```
 
 https://www.nsu.ru/local/templates/nsu_ru_mca/images/opengraf.jpg
+
+![image](https://user-images.githubusercontent.com/114376515/208344862-8a0012cc-e7b4-4a32-b332-316f007de09d.png)
